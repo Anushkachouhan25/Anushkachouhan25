@@ -33,7 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachouhan25&show_icons=true&locale=en" alt="anushkachouhan25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkachouhan25&" alt="anushkachouhan25" /></p>
-
-<img src="https://raw.githubusercontent.com/AnushkaChouhan25/AnushkaChouhan25/output/snake.svg" alt="Snake animation" />
-
-###
+ 
